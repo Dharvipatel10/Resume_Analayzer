@@ -1,6 +1,6 @@
 import React, {useEffect} from "react";
 import {usePuterStore} from "~/lib/puter";
-import {type NavigateFunction, useLocation, useNavigate} from "react-router";
+import { useLocation, useNavigate} from "react-router";
 
 export const meta:() => {}[] = () => ([
     { title: 'ResuMate | Auth' },
@@ -9,8 +9,8 @@ export const meta:() => {}[] = () => ([
 const Auth: () => React.JSX.Element = () => {
     const{ isLoading, auth } = usePuterStore();
     const location: any = useLocation();
-    const next:string = location.search.split('next=')[1];
-    const navigate: NavigateFunction = useNavigate();
+    const next = location.search.split('next=')[1];
+    const navigate = useNavigate();
 
     useEffect( () => {
         if (auth.isAuthenticated) navigate(next);
