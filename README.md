@@ -13,6 +13,20 @@ Upload your resume → Provide job details → Get structured, intelligent feedb
 Built with a privacy-first architecture using Puter.js for cloud storage and AI integration — no traditional backend required.
 
 ---
+
+## 🖥️ TECH STACK
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+![PDF.js](https://img.shields.io/badge/PDF.js-F40F02?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+![Puter.js](https://img.shields.io/badge/Puter.js-000000?style=for-the-badge)
+![AI Integration](https://img.shields.io/badge/AI-Powered-FF6F00?style=for-the-badge)
+
+---
 ## 📱 Features
 
 🔐 **Easy & Convenient Authentication**  
@@ -46,20 +60,6 @@ Clean, responsive interface built using Tailwind CSS and shadcn/ui for a sleek u
 4. AI analyzes the resume against job description
 5. Structured JSON feedback is generated
 6. User is redirected to detailed feedback page
-
----
-
-## 🖥️ TECH STACK
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
-![PDF.js](https://img.shields.io/badge/PDF.js-F40F02?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
-![Puter.js](https://img.shields.io/badge/Puter.js-000000?style=for-the-badge)
-![AI Integration](https://img.shields.io/badge/AI-Powered-FF6F00?style=for-the-badge)
 
 ---
 
