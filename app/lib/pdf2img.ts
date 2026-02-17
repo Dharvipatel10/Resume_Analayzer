@@ -13,7 +13,7 @@ async function loadPdfJs(): Promise<any> {
     if (loadPromise) return loadPromise;
 
     isLoading = true;
-    // @ts-expect-error - pdfjs-dist/build/pdf.mjs is not a module
+
     loadPromise = (async () => {
         // stable with bundlers
         const lib = await import("pdfjs-dist/legacy/build/pdf.mjs");
