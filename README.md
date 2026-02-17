@@ -13,17 +13,28 @@ Upload your resume → Provide job details → Get structured, intelligent feedb
 Built with a privacy-first architecture using Puter.js for cloud storage and AI integration — no traditional backend required.
 
 ---
+## 📱 Features
 
-## ✨ Features
+🔐 **Easy & Convenient Authentication**  
+Handle authentication entirely in the browser using Puter.js — no backend or server setup required.
 
-✅ PDF Resume Upload  
-✅ Convert Resume PDF to Image (Canvas + PDF.js)  
-✅ AI-Powered Resume Feedback  
-✅ ATS-style Resume Evaluation  
-✅ Job Description Matching  
-✅ Secure Cloud Storage via Puter  
-✅ Serverless Architecture  
-✅ Clean & Modern UI  
+📂 **Resume Upload & Storage**  
+Upload and securely store resumes in one centralized place.
+
+🤖 **AI Resume Matching**  
+Provide a job listing and receive an ATS score with personalized feedback tailored to each resume.
+
+🧩 **Reusable, Modern UI**  
+Built with clean, consistent components for a professional and maintainable interface.
+
+♻️ **Code Reusability**  
+Modular architecture and reusable components for efficient development and scalability.
+
+📱 **Cross-Device Compatibility**  
+Fully responsive design that works seamlessly across desktop, tablet, and mobile devices.
+
+🎨 **Modern UI/UX**  
+Clean, responsive interface built using Tailwind CSS and shadcn/ui for a sleek user experience.
 
 ---
 
@@ -51,28 +62,5 @@ Built with a privacy-first architecture using Puter.js for cloud storage and AI 
 ![AI Integration](https://img.shields.io/badge/AI-Powered-FF6F00?style=for-the-badge)
 
 ---
-
-## 📱 Features
-
-🔐 **Easy & Convenient Authentication**  
-Handle authentication entirely in the browser using Puter.js — no backend or server setup required.
-
-📂 **Resume Upload & Storage**  
-Upload and securely store resumes in one centralized place.
-
-🤖 **AI Resume Matching**  
-Provide a job listing and receive an ATS score with personalized feedback tailored to each resume.
-
-🧩 **Reusable, Modern UI**  
-Built with clean, consistent components for a professional and maintainable interface.
-
-♻️ **Code Reusability**  
-Modular architecture and reusable components for efficient development and scalability.
-
-📱 **Cross-Device Compatibility**  
-Fully responsive design that works seamlessly across desktop, tablet, and mobile devices.
-
-🎨 **Modern UI/UX**  
-Clean, responsive interface built using Tailwind CSS and shadcn/ui for a sleek user experience.
 
 
