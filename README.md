@@ -27,6 +27,31 @@ Built with a privacy-first architecture using Puter.js for cloud storage and AI 
 ![AI Integration](https://img.shields.io/badge/AI-Powered-FF6F00?style=for-the-badge)
 
 ---
+
+## 🚀 Quick Start
+
+Follow these steps to set up the project locally on your machine.
+
+---
+
+### 📋 Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+---
+
+### 📥 Cloning the Repository
+
+```bash
+git clone https://github.com/adrianhajdin/ai-resume-analyzer.git
+cd ai-resume-analyzer
+
+---
+
 ## 📱 Features
 
 🔐 **Easy & Convenient Authentication**  
